@@ -1,1 +1,2 @@
-This OS in not real and i make it for just fun and i make it for learning .bat
+Version 0.1 is going be pre release 
+coming soon
